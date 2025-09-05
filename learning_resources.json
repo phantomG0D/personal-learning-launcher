@@ -1,9 +1,72 @@
 {
+  "react": {
+    "docs": "https://react.dev/",
+    "tutorial": "https://www.youtube.com/watch?v=SqcY0GlETPk"
+  },
   "django": {
-    "docs": "https://docs.djangoproject.com",
-    "tutorial": "https://www.youtube.com/watch?v=wxyz456&t=120s"
+    "docs": "https://docs.djangoproject.com/",
+    "tutorial": "https://www.youtube.com/watch?v=F5mRW0jo-U4"
   },
   "nodejs": {
-    "tutorial": "https://www.youtube.com/watch?v=node123"
+    "docs": "https://nodejs.org/en/docs/",
+    "tutorial": "https://www.youtube.com/watch?v=fBNz5xF-Kx4"
+  },
+  "express": {
+    "docs": "https://expressjs.com/",
+    "tutorial": "https://www.youtube.com/watch?v=L72fhGm1tfE"
+  },
+  "mongodb": {
+    "docs": "https://www.mongodb.com/docs/",
+    "tutorial": "https://www.youtube.com/watch?v=ofme2o29ngU"
+  },
+  "python": {
+    "docs": "https://docs.python.org/3/",
+    "tutorial": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+  },
+  "numpy": {
+    "docs": "https://numpy.org/doc/",
+    "tutorial": "https://www.youtube.com/watch?v=QUT1VHiLmmI"
+  },
+  "pandas": {
+    "docs": "https://pandas.pydata.org/docs/",
+    "tutorial": "https://www.youtube.com/watch?v=vmEHCJofslg"
+  },
+  "matplotlib": {
+    "docs": "https://matplotlib.org/stable/users/index.html",
+    "tutorial": "https://www.youtube.com/watch?v=DAQNHzOcO5A"
+  },
+  "scikit-learn": {
+    "docs": "https://scikit-learn.org/stable/",
+    "tutorial": "https://www.youtube.com/watch?v=pqNCD_5r0IU"
+  },
+  "tensorflow": {
+    "docs": "https://www.tensorflow.org/guide",
+    "tutorial": "https://www.youtube.com/watch?v=tPYj3fFJGjk"
+  },
+  "pytorch": {
+    "docs": "https://pytorch.org/docs/stable/index.html",
+    "tutorial": "https://www.youtube.com/watch?v=GIsg-ZUy0MY"
+  },
+  "ml_basics": {
+    "tutorial": "https://www.youtube.com/watch?v=7eh4d6sabA0"
+  },
+  "deeplearning": {
+    "tutorial": "https://www.youtube.com/watch?v=aircAruvnKk"
+  },
+  "datascience_overview": {
+    "tutorial": "https://www.youtube.com/watch?v=ua-CiDNNj30"
+  },
+  "sql": {
+    "docs": "https://dev.mysql.com/doc/",
+    "tutorial": "https://www.youtube.com/watch?v=HXV3zeQKqGY"
+  },
+  "git": {
+    "docs": "https://git-scm.com/doc",
+    "tutorial": "https://www.youtube.com/watch?v=8JJ101D3knE"
+  },
+  "docker": {
+    "docs": "https://docs.docker.com/",
+    "tutorial": "https://www.youtube.com/watch?v=Gjnup-PuquQ"
   }
 }
+
