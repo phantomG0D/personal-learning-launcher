@@ -1,8 +1,8 @@
-# Personal Learning Launcher CLI
+# Personal Learning Launcher CLI for LINUX
 
-A CLI to **manage, add, remove, and launch your learning resources dynamically from JSON**.  
-No manual JSON edits required—add, remove, list, and open resources directly from the terminal.
+A CLI to instantly manage and launch your learning resources—docs, tutorials, and more—resume forgotten tutorials, and stay on top of your learning every day, all at an instant, adding or removing resources directly from the terminal without touching the JSON.
 
+note: Replace tutorial links with your preferred, high-quality resources
 ## Features
 
 - Open resources by category and type
@@ -38,7 +38,7 @@ source ~/.zshrc
 ## Usage
 
 **1. Open a resource**  
-Command: `learn open react tutorial`
+Command: `learn open react tutorial`(it opens the tutorial video at exact position where you have left...suitable for youtube else start a new)
 
 - Opens the link stored for the React tutorial in your default browser.
     
@@ -53,7 +53,7 @@ Command: `learn open react tutorial`
 
 **Why it matters:** You can instantly access any resource from your learning database with a single command.
 
----
+
 
 **2. Add a new category or type**  
 Command: `learn add nodejs tutorial https://www.youtube.com/...`
@@ -65,7 +65,7 @@ Command: `learn add nodejs tutorial https://www.youtube.com/...`
 
 **Why it matters:** Lets your learning database grow dynamically as you add more resources.
 
----
+
 
 **3. Remove a type or category**  
 Commands:
@@ -77,7 +77,7 @@ Commands:
 
 **Why it matters:** Keeps your database clean and up-to-date by letting you delete resources selectively or remove a whole category.
 
----
+
 
 **4. List all categories and types**  
 Command: `learn list`
@@ -97,7 +97,7 @@ Command: `learn list`
 
 -
 
----
+
 
 
 ## JSON Structure
@@ -122,7 +122,7 @@ Command: `learn list`
 - Values = URLs
     
 
----
+
 
 ## Requirements
 
@@ -131,7 +131,7 @@ Command: `learn list`
 - `xdg-open` to launch URLs in the default browser
     
 
----
+
 
 ## Notes
 
@@ -139,3 +139,4 @@ Command: `learn list`
     
 - You can clone this repository anywhere, update the alias accordingly, and start using it immediately.
     
+
