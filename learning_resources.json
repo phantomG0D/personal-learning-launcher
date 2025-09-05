@@ -1,0 +1,9 @@
+{
+  "django": {
+    "docs": "https://docs.djangoproject.com",
+    "tutorial": "https://www.youtube.com/watch?v=wxyz456&t=120s"
+  },
+  "nodejs": {
+    "tutorial": "https://www.youtube.com/watch?v=node123"
+  }
+}
