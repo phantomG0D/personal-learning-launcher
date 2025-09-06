@@ -1,15 +1,15 @@
 {
   "react": {
     "docs": "https://react.dev/",
-    "tutorial": "https://www.youtube.com/watch?v=SqcY0GlETPk"
+    "tutorial": "https://youtu.be/LDB4uaJ87e0"
   },
   "django": {
     "docs": "https://docs.djangoproject.com/",
-    "tutorial": "https://www.youtube.com/watch?v=F5mRW0jo-U4"
+    "tutorial": "https://www.youtube.com/watch?v=PtQiiknWUcI"
   },
   "nodejs": {
     "docs": "https://nodejs.org/en/docs/",
-    "tutorial": "https://www.youtube.com/watch?v=fBNz5xF-Kx4"
+    "tutorial": "https://youtu.be/32M1al-Y6Ag"
   },
   "express": {
     "docs": "https://expressjs.com/",
@@ -21,7 +21,7 @@
   },
   "python": {
     "docs": "https://docs.python.org/3/",
-    "tutorial": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+    "tutorial": "https://www.youtube.com/watch?v=_uQrJ0TkZlc" 
   },
   "numpy": {
     "docs": "https://numpy.org/doc/",
