@@ -2,7 +2,7 @@
 
 A CLI to instantly manage and launch your learning resources—docs, tutorials, and more—resume forgotten tutorials, and stay on top of your learning every day, all at an instant, adding or removing resources directly from the terminal without touching the JSON.
 
-note: Replace tutorial links with your preferred, high-quality resources
+note: already added the best of the best resources, but you can update resources with as per your personal resource choice
 ## Features
 
 - Open resources by category and type
